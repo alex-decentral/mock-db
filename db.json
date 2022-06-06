@@ -10,8 +10,8 @@
         {
           "id": 1,
           "img": "/img/auction_5.jpg",
-          "title": "Walking On Air",
-          "price": "14 ETH",
+          "title": "Facebook",
+          "price": "340 ETH",
           "time": "4 hours ago",
           "seller": "@arham"
         },
@@ -19,7 +19,7 @@
           "id": 2,
           "img": "/img/auction_6.jpg",
           "title": "Virtual Worlds",
-          "price": "10 ETH",
+          "price": "90 ETH",
           "time": "8 hours ago",
           "seller": "@junaid"
         },
@@ -94,32 +94,32 @@
         {
           "id": 1,
           "img": "/img/auction_1.jpg",
-          "title": "Design Illusions",
-          "price": "10 ETH",
+          "title": "Apple",
+          "price": "300 ETH",
           "time": "8 hours ago",
           "seller": "@junaid"
         },
         {
           "id": 2,
           "img": "/img/auction_2.jpg",
-          "title": "Digital Arts",
-          "price": "12 ETH",
+          "title": "Google",
+          "price": "320 ETH",
           "time": "3 hours ago",
           "seller": "@yasmin"
         },
         {
           "id": 3,
           "img": "/img/auction_3.jpg",
-          "title": "Photography",
-          "price": "22 ETH",
+          "title": "Microsoft",
+          "price": "420 ETH",
           "time": "9 hours ago",
           "seller": "@john"
         },
         {
           "id": 4,
           "img": "/img/auction_4.jpg",
-          "title": "Virtual Worlds",
-          "price": "69 ETH",
+          "title": "Car Channel",
+          "price": "20 ETH",
           "time": "12 hours ago",
           "seller": "@junaid"
         }
