@@ -290,8 +290,8 @@
     "exploreData": [
       {
         "id": "1",
-        "img": "/img/auction_1.jpg",
-        "title": "Apple",
+        "img": "/img/auction_1.png",
+        "title": "NBA",
         "owner": "@Richard",
         "price": "300.5 BNB",
         "count": "1 of 1",
@@ -299,8 +299,8 @@
     },
     {
         "id": "2",
-        "img": "/img/auction_2.jpg",
-        "title": "Google",
+        "img": "/img/auction_2.png",
+        "title": "Coca Cola",
         "owner": "@JohnDeo",
         "price": "500.7 BNB",
         "count": "1 of 1",
@@ -308,8 +308,8 @@
     },
     {
         "id": "3",
-        "img": "/img/auction_3.jpg",
-        "title": "Microsoft",
+        "img": "/img/auction_3.png",
+        "title": "MLB",
         "owner": "@MKHblots",
         "price": "2000.3 BNB",
         "count": "1 of 1",
