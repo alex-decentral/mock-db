@@ -59,32 +59,32 @@
     "tabData_2": [
       {
         "id": 1,
-        "img": "/img/auction_6.jpg",
-        "title": "Virtual Worlds",
+        "img": "/img/auction_6.png",
+        "title": "3M",
         "price": "10 ETH",
         "time": "8 hours ago",
         "seller": "@junaid"
       },
       {
         "id": 2,
-        "img": "/img/auction_7.jpg",
-        "title": "Collectibles",
+        "img": "/img/auction_2.png",
+        "title": "Coca Cola",
         "price": "12 ETH",
         "time": "3 hours ago",
         "seller": "@yasmin"
       },
       {
         "id": 3,
-        "img": "/img/auction_8.jpg",
-        "title": "Digital Arts",
+        "img": "/img/auction_3.png",
+        "title": "MLB",
         "price": "22 ETH",
         "time": "9 hours ago",
         "seller": "@john"
       },
       {
         "id": 4,
-        "img": "/img/auction_9.jpg",
-        "title": "Photography",
+        "img": "/img/auction_4.png",
+        "title": "NHL",
         "price": "69 ETH",
         "time": "12 hours ago",
         "seller": "@junaid"
