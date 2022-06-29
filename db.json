@@ -93,24 +93,24 @@
     "tabData_3": [
       {
         "id": 1,
-        "img": "/img/auction_1.jpg",
-        "title": "Apple",
+        "img": "/img/auction_1.png",
+        "title": "NBA",
         "price": "300 ETH",
         "time": "8 hours ago",
         "seller": "@junaid"
       },
       {
         "id": 2,
-        "img": "/img/auction_2.jpg",
-        "title": "Google",
+        "img": "/img/auction_2.png",
+        "title": "Coca Cola",
         "price": "320 ETH",
         "time": "3 hours ago",
         "seller": "@yasmin"
       },
       {
         "id": 3,
-        "img": "/img/auction_3.jpg",
-        "title": "Microsoft",
+        "img": "/img/auction_3.png",
+        "title": "MLB",
         "price": "420 ETH",
         "time": "9 hours ago",
         "seller": "@john"
