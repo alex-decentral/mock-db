@@ -9,16 +9,16 @@
     "tabData_1": [
       {
         "id": 1,
-        "img": "/img/auction_5.jpg",
-        "title": "Facebook",
+        "img": "/img/auction_5.png",
+        "title": "NFL",
         "price": "340 ETH",
         "time": "4 hours ago",
         "seller": "@arham"
       },
       {
         "id": 2,
-        "img": "/img/auction_6.jpg",
-        "title": "Virtual Worlds",
+        "img": "/img/auction_6.png",
+        "title": "3M",
         "price": "90 ETH",
         "time": "8 hours ago",
         "seller": "@junaid"
@@ -26,31 +26,31 @@
       {
         "id": 3,
         "img": "/img/auction_7.jpg",
-        "title": "Collectibles",
+        "title": "M9 Solutions",
         "price": "12 ETH",
         "time": "3 hours ago",
         "seller": "@yasmin"
       },
       {
         "id": 4,
-        "img": "/img/auction_8.jpg",
-        "title": "Digital Arts",
+        "img": "/img/auction_2.png",
+        "title": "Coca Cola",
         "price": "22 ETH",
         "time": "9 hours ago",
         "seller": "@john"
       },
       {
         "id": 5,
-        "img": "/img/auction_9.jpg",
-        "title": "Design Illusions",
+        "img": "/img/auction_3.png",
+        "title": "MLB",
         "price": "42 ETH",
         "time": "7 hours ago",
         "seller": "@william"
       },
       {
         "id": 6,
-        "img": "/img/auction_10.jpg",
-        "title": "Industrial",
+        "img": "/img/auction_4.png",
+        "title": "NHL",
         "price": "36 ETH",
         "time": "10 hours ago",
         "seller": "@sara"
@@ -117,8 +117,8 @@
       },
       {
         "id": 4,
-        "img": "/img/auction_4.jpg",
-        "title": "Car Channel",
+        "img": "/img/auction_4.png",
+        "title": "NHL",
         "price": "20 ETH",
         "time": "12 hours ago",
         "seller": "@junaid"
